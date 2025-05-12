@@ -1,0 +1,108 @@
+div#comeco{
+	background-color: #2c3e50;
+	color: white;
+	padding: 30px;
+	font-weight: bold;
+	font-family: "Segoe UI";
+	font-size: 18px;
+}
+div#start{
+	padding-left: 115px;
+	font-size: 28px;
+}
+#start:hover{
+	background-color:#2c3e50 ;
+	color: #1abc9c;
+}
+#about:hover{
+	background-color:#2c3e50 ;
+	color: #1abc9c;
+}
+#portifolio:hover{
+	background-color:#2c3e50 ;
+	color: #1abc9c;
+}
+#contact:hover{
+	background-color:#2c3e50 ;
+	color: #1abc9c;
+}
+div#introducao{
+	background-color: #1abc9c;
+	display: block;
+
+}
+
+div#imagem img{
+	width: 250px;
+	margin-left: 550px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+div#texto{
+	color: white;
+	font-size: 55px;
+	font-weight: bold;
+	font-family: "Segoe UI";
+	text-align: center;
+
+}
+div#desenho img{
+	width: 300px;
+	margin-left: 500px;
+	padding-bottom: 40px;
+
+
+}
+div#texto2{
+	color: white;
+	text-align: center;
+	font-family: "Helvetica";
+	font-size: 25px;
+	padding-bottom: 60px;
+}
+div#titulo{
+	color: #2c3e50;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 50px;
+	font-size: 55px;
+}
+div#menu{
+	display: block;
+	padding-bottom: 50px;
+}
+
+
+div#imagem1 img{
+	width: 325px;
+	border-radius: 10px;
+	margin-left:110px;
+	margin-bottom: 50px
+
+}
+div#imagem2 img{
+	width: 325px;
+	border-radius: 10px;
+	margin-right: 100px;
+	margin-left: 150px;
+	margin-bottom: 50px;
+}
+div#imagem3 img{
+	width: 325px;
+	border-radius: 10px;
+	margin-left: 190px;
+	margin-bottom: 50px;
+}
+
+a:hover img.imagem {
+	background:  #1abc9c; 
+	opacity: 50%;
+}
+
+div#rodape{
+	color: white;
+	background-color: rgb(26, 37, 47);
+	padding: 20px;
+	text-align: center;
+}
